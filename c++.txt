@@ -41,5 +41,9 @@ OPERATORS:
 -> and . member access
 new and delete allocation and deallocation
 ----------------------------
-
+Jump statements
+break
+leaves a loop even if the condition for its end is not fulfilled
+continue
+causes the program to skip the rest of the loop in the current itteration
 
