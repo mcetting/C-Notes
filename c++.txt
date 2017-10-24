@@ -1,0 +1,10 @@
+C++
+---------------------------
+High level programming language;
+compiles into machine code which makes it efficient
+Source code->c++ preprocessor->compiler->assembler->linker->executable
+---------------------------
+Lines that start with '#' are directives that are processed  by the preprocessor before compilation.
+#include <iostream>
+gets the header for input and output before the program compiles
+---------------------------
