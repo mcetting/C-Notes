@@ -34,6 +34,12 @@ Allows for conversion from a balue of a given type to another type.
 ---------------------------
 sizeOf returns the number of bytes a variable uses
 ---------------------------
-
+OPERATORS:
+:: scope qualifier
+() functional forms
+[] subscript
+-> and . member access
+new and delete allocation and deallocation
+----------------------------
 
 
