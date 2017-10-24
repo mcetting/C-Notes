@@ -8,3 +8,32 @@ Lines that start with '#' are directives that are processed  by the preprocessor
 #include <iostream>
 gets the header for input and output before the program compiles
 ---------------------------
+Character types: 1 byte
+'a'
+Numerical integer types: many values
+can be signed or unsigned to determine if they can be negative or not
+1
+Floating-point types: many values
+use decimals
+1.23
+Boolean type: 
+true or false
+---------------------------
+#define PI 3.14
+replaces all usage of PI before compiling to the literal
+#define NEWLINE '\n'
+replaces all usage of NEWLINE with the char literal
+---------------------------
+Conditionl ternary operator (?)
+first value is true second is false
+7==5 ? 4:3
+evaluates to 3 since 7 is not equal to 5
+---------------------------
+Explicit type casting operator
+Allows for conversion from a balue of a given type to another type.
+---------------------------
+sizeOf returns the number of bytes a variable uses
+---------------------------
+
+
+
